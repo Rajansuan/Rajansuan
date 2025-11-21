@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajan Suan</h1>
 <h3 align="center">Blockchain & Full-Stack Developer | 3.5+ Years Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajansuan&label=Profile%20views&color=0e75b6&style=flat" alt="rajansuan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajansuan" alt="rajansuan" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced Blockchain Architectures • Distributed Systems • Cloud-Native Web3 Development • High-Performance Backend Frameworks**
 
 - 💬 Ask me about **Blockchain Development • Full-Stack Engineering • Smart Contracts • Corda • Hedera • React • Node.js**
