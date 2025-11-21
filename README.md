@@ -36,15 +36,21 @@
 ---
 
 ## 🌐 Connect With Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajan-suan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  <a href="https://www.linkedin.com/in/rajan-suan" target="_blank" style="margin:0 12px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" style="vertical-align:middle" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/rcs9159" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="45" />
+
+  <a href="mailto:rajansuan98@gmail.com" target="_blank" style="margin:0 12px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45" style="vertical-align:middle" alt="Gmail" />
+  </a>
+
+  <a href="https://leetcode.com/rcs9159" target="_blank" style="margin:0 12px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45" height="45" style="vertical-align:middle" alt="LeetCode" />
   </a>
 </p>
+
 
 ---
 
