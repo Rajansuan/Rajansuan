@@ -15,10 +15,6 @@
 <a href="https://www.leetcode.com/rcs9159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rcs9159" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
