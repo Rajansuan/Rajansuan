@@ -51,17 +51,4 @@
   </a>
 </p>
 
-
 ---
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rajansuan&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajansuan&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <em>Thank you for visiting my profile! 🚀</em>
-</p>
