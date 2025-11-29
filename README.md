@@ -50,5 +50,3 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45" height="45" style="vertical-align:middle" alt="LeetCode" />
   </a>
 </p>
-
----
